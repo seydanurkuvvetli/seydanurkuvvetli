@@ -1,14 +1,14 @@
 <ul>
-	<li>👋Merhaba ben Şeydanur Kuvvetli.Bülent Ecevit Üniversitesi Bilgisayar Mühendisliği 4.sınıf öğrencisiyim.</li>
+	<li>Merhaba ben Şeydanur Kuvvetli.Bülent Ecevit Üniversitesi Bilgisayar Mühendisliği 4.sınıf öğrencisiyim.</li>
 </ul>
 <ul>
-	<li>🌱Android uygulama geliştirme üzerine kendimi geliştirmekteyim.Öğrenmeye açığım ve yeni teknolojileri takip ediyorum.</li>
+	<li>Android uygulama geliştirme üzerine kendimi geliştirmekteyim.Öğrenmeye açığım ve yeni teknolojileri takip ediyorum.</li>
 </ul>
 <ul>
-	<li>🔭Şu an aktif olarak Android-Kotlin öğreniyorum.Öğrendiklerimi pekiştirmek için uygulamalar geliştiriyorum.</li>
+	<li>Şu an aktif olarak Android-Kotlin öğreniyorum.Öğrendiklerimi pekiştirmek için uygulamalar geliştiriyorum.</li>
 </ul>
 <ul>
-	<li>⚡Yazılıma ilk başladığım zamandan bu yana kendime kattığım bilgilere gün geçtikçe yenilerini eklemek,araştırmak,öğrendiklerimi uygulayabilmek en büyük tutkum</li>
+	<li>Yazılıma ilk başladığım zamandan bu yana kendime kattığım bilgilere gün geçtikçe yenilerini eklemek,araştırmak,öğrendiklerimi uygulayabilmek en büyük tutkum</li>
 </ul>
 
 
