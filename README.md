@@ -7,9 +7,7 @@
 <ul>
 	<li>Şu an aktif olarak Android-Kotlin öğreniyorum.Öğrendiklerimi pekiştirmek için uygulamalar geliştiriyorum.</li>
 </ul>
-<ul>
-	<li>Yazılıma ilk başladığım zamandan bu yana kendime kattığım bilgilere gün geçtikçe yenilerini eklemek,araştırmak,öğrendiklerimi uygulayabilmek en büyük tutkum</li>
-</ul>
+
 
 
 
