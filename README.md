@@ -1,5 +1,5 @@
 <ul>
-	<li>Merhaba ben Şeydanur Kuvvetli.Bülent Ecevit Üniversitesi Bilgisayar Mühendisliği 4.sınıf öğrencisiyim.</li>
+	<li>Merhaba ben Şeydanur Kuvvetli.Bülent Ecevit Üniversitesi Bilgisayar Mühendisliği mezunuyum.</li>
 </ul>
 <ul>
 	<li>Android uygulama geliştirme üzerine kendimi geliştirmekteyim.Öğrenmeye açığım ve yeni teknolojileri takip ediyorum.</li>
